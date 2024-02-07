@@ -1,0 +1,30 @@
+Version 0.4.2 (2020-09-23)
+--------------------------
+Run CI on all branches (#4)
+Add cache for go modules to speed up CI (#3)
+
+Version 0.4.1 (2020-09-22)
+--------------------------
+Fixed bug for inconsistent group_id array between post and get formats
+
+Version 0.4.0 (2020-09-22)
+--------------------------
+Added user disable functionality
+Moved from travis to github actions
+
+Version 0.3.0 (2020-09-18)
+--------------------------
+First public release
+
+Version 0.2.1 (2020-09-16)
+--------------------------
+Resolving issues around unexpected properties in post/put body for data sources.
+
+Version 0.2.0 (2020-09-14)
+--------------------------
+Fix for inconsistent user object response in Redash API
+Added ability to load user by email address
+
+Version 0.1.0 (2020-09-11)
+--------------------------
+Initial release
